@@ -1,15 +1,25 @@
 ### Hi there 👋
 
-- 🧠 Proudly worked on [Kinome](https://www.kinome-app.com/), aiming to improve medical care for physiotherapist and their patients.
+- 🖥️ Freelance Design System Engineer, core memeber of Engie's [FLuid Design System](https://www.engie.design/) _(Vanilla, React, Angular, Design Tokens)_.
 
-- 🌊 Also working with [Waves of Change](https://www.wavesofchange.earth/), an NGO building a coalition of like-minded stakeholders that can learn from each other and co-develop solutions to tackle environmental challenges.
+  → Fancy a talk on best practices? ✨ _hit me up_ ! ✨
+  
 
-- 🤔 Looking for some help to develop the next Waves of Change web app - ✨ _hit me up_ ! ✨
+- 🧠 Proudly co-founded on [Kinome](https://www.kinome-app.com/), aiming to improve medical care for physiotherapist and their patients _(React, Auth0, Hasura, Stripe)_. [paused]
 
-- 🌱 Currently focusing on front-end, particularly accessibility.
+  → Interested in taking over / maintaining it with us? ! - ✨ _hit me up_ ! ✨
+
+
+- 🌊 Volunteering for [Waves of Change](https://www.wavesofchange.earth/), an NGO to amplify environmental impact through collaboration. Building a coalition and co-develop solutions to tackle environmental challenges.
+
+  → We're looking for some help to develop the next Waves of Change web app _(NextJs, Prismicio, Supabase, Stripe)_. ! - ✨ _hit me up_ ! ✨
+
+
+
+### Some more?
+
+- 🌱 Fully focusing on front-end, especially accessibility and UX.
 
 - 🎨 Figma enthusiast.
 
-- 🚀 Go-to tech stack: Nextjs, css variables, Tailwind, Vitest, Supabase, Hasura.
-
-- 💬 Feel free to ask me about anything related to front-end development and design
+- 💬 Feel free to ask me about anything related to front-end development and design.
